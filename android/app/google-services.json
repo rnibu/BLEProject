@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "740956966266",
+    "firebase_url": "https://bleapp-6afb9-default-rtdb.firebaseio.com",
+    "project_id": "bleapp-6afb9",
+    "storage_bucket": "bleapp-6afb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740956966266:android:1c41d2da0017b77e255ac3",
+        "android_client_info": {
+          "package_name": "com.example.ble_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740956966266-4o9ehu24fn85cph69p3cteiuuv48otj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBejZG4BmAY8LYZRwimjjE94Lg4xbrpr9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740956966266-4o9ehu24fn85cph69p3cteiuuv48otj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "740956966266-n5tk98unso87g6bhlgel71jakvqh2513.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bleProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740956966266:android:a8781845b1b02e22255ac3",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740956966266-4o9ehu24fn85cph69p3cteiuuv48otj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBejZG4BmAY8LYZRwimjjE94Lg4xbrpr9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740956966266-4o9ehu24fn85cph69p3cteiuuv48otj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "740956966266-n5tk98unso87g6bhlgel71jakvqh2513.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bleProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
